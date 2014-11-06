@@ -7,9 +7,6 @@ body {
 }
 
 .carousel-caption {
-  width: 15%;
-  opacity: .5;
-  filter: alpha(opacity=50);
   font-size: 20px;
   color: black;
   text-align: center;

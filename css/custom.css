@@ -10,11 +10,10 @@ about, body-copy, scroll-container{
 }
 
 h1{
-    font-size: 24px;
-    letter-spacing: 0px;
-    font-weight: 200;
-    padding: 15px 0px 60px;
-    color: #888;
+    text-transform: uppercase;
+    color: #23a359;
+    padding: 0;
+    font-size: 38px;
     text-align: center;
 }
 

@@ -5,6 +5,10 @@ body {
     background-color: lavender;
 }
 
+.about, .body-copy, .scroll-container{
+    background-color: #222;
+}
+
 h2, h3 {
     font-size: 24px;
     letter-spacing: 0px;

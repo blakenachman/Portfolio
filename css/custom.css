@@ -13,3 +13,10 @@ h2, h3 {
     color: #888;
     text-align: center;
 }
+
+<style>
+    #map_canvas {
+    width: 500px;
+    height: 400px;
+    }
+</style>

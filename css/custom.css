@@ -5,7 +5,7 @@ body {
     background-color: lavender;
 }
 
-.about, .body-copy, .scroll-container{
+about, body-copy, scroll-container{
     background-color: #222;
 }
 

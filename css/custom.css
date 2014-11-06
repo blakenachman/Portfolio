@@ -6,7 +6,7 @@ body {
     backgoudn-repeat: repeat;
 }
 
-.carousel-control {
+.carousel-caption {
   position: absolute;
   top: 0;
   left: 0;

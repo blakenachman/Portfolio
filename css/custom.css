@@ -2,7 +2,7 @@ body {
     line-height: 175%;
     font-size: 18px;
     font-family: Georgia;
-    color: red;
+    background-color: red;
 }
 
 h2, h3 {
@@ -18,5 +18,4 @@ navbar, navbar-default{
     background-color: green;
     color: red;
 }
-
 

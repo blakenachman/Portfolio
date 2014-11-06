@@ -2,7 +2,12 @@ body {
     line-height: 175%;
     font-size: 18px;
     font-family: :"Times New Roman";
-    background-color: lavender;
+    background-image:url('**enter url here**')
+    backgoudn-repeat: repeat;
+}
+
+p{
+    text-align: center;
 }
 
 about, body-copy, scroll-container{

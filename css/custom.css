@@ -2,8 +2,7 @@ body {
     line-height: 175%;
     font-size: 18px;
     font-family: :"Times New Roman";
-    background-image:url("http://www.momorialcards.com/images/light_textured_backround.jpg")
-    backgoudn-repeat: repeat;
+    background-color: lavender;
 }
 
 .item{
@@ -27,7 +26,7 @@ about, body-copy, scroll-container{
 
 h1{
     text-transform: uppercase;
-    color: #23a359;
+    color: black;
     padding: 0;
     font-size: 38px;
     text-align: center;

@@ -2,7 +2,7 @@ body {
     line-height: 175%;
     font-size: 18px;
     font-family: :"Times New Roman";
-    background-image:url(http://www.momorialcards.com/images/light_textured_backround.jpg)
+    background-image:url("http://www.momorialcards.com/images/light_textured_backround.jpg")
     backgoudn-repeat: repeat;
 }
 

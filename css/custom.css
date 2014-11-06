@@ -29,6 +29,10 @@ h1{
     text-align: center;
 }
 
+img {
+    vertical-align: text-bottom;
+} 
+
 h2{
 font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
 font-weight: 200;

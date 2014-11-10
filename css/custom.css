@@ -32,7 +32,7 @@ h1{
     text-align: center;
 }
 
-img {
+img.resize {
     vertical-align: top;
     height: 50%;
     width: 50%;
